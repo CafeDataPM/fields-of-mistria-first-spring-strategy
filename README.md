@@ -157,7 +157,7 @@ fields-of-mistria-crop-profitability/
 - Data dictionary
 - Daily cash-flow simulation table
 - SQL business queries
-- Kaggle notebook with analysis and visualizations
+- A Python script or Jupyter Notebook used for the daily cash-flow simulation
 - Power BI dashboard
 - Strategy comparison and final recommendation
 
@@ -166,7 +166,5 @@ fields-of-mistria-crop-profitability/
 This analysis is based on fixed assumptions and base crop values. Results may change if game updates modify crop prices, seed costs, crop availability, harvest timing, or farming mechanics. The simulation also excludes quality modifiers, player skills, processing, and the energy or time required to farm.
 
 ## Final Recommendation
-
-The final recommendation will identify the strategy that produces the highest ending Tesserae balance by Day 28, while explaining the trade-off between fast cash generation, ROI, crop profitability, and farm-plot usage.
 
 The final recommendation will identify the strategy that produces the highest ending Tesserae balance by Day 28, while explaining the trade-off between fast cash generation, ROI, crop profitability, and farm-plot usage.
